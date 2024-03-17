@@ -3,7 +3,7 @@ import "../style/index.css";
 function Nav() {
   return (
     <>
-      <nav>
+      <nav className="container-fluid">
         <ul className="nav nav-tabs nav-justified">
           <li className="nav-item">
             <a className="nav-link active" href="/">
