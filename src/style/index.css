@@ -1,0 +1,46 @@
+a {
+  color: blue;
+  margin: 12px;
+}
+
+body {
+  background-color: grey;
+}
+
+nav {
+  padding: 4px 0px;
+  margin: 4px 0px;
+}
+
+.container-fluid {
+  box-sizing: content-box;
+  max-width: 600px;
+  background-color: whitesmoke;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}
+
+.img {
+  height: 256px;
+  width: 256px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 100%;
+}
+
+#imgwork {
+  height: 256px;
+  width: 256px;
+  object-fit: cover;
+  object-position: right top;
+}
+
+#imgedu {
+  height: 256px;
+  width: 256px;
+  object-fit: contain;
+}
