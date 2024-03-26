@@ -1,7 +1,7 @@
 function Home() {
   return (
     <>
-      <img className="img" src="./src/img/Passport.png" alt="Amirul Anwar" />
+      <img className="img" src="./Passport.png" alt="Amirul Anwar" />
       <h1>Amirul Anwar bin Mohd Solong</h1>
       <p>
         I am a Civil Engineer at Perunding SHASH. I'm joining Online Coding
