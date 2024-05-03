@@ -1,47 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Working Experience | Amirul Anwar</title>
-    <link rel="stylesheet" href="../style/style.css" />
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
-      crossorigin="anonymous"
-    />
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
-      crossorigin="anonymous"
-    ></script>
-  </head>
-
-  <body>
-    <div class="container-fluid" />
-
-    <header>
-      <nav>
-        <a href="../">Home</a>
-        <a href="./workingExperience.html">Working Experience</a>
-        <a href="./skills.html">Skills</a>
-        <a href="./education.html">Education</a>
-        <a href="./otherExperience.html">Other Experience</a>
-      </nav>
-    </header>
-
-    <main>
+function WorkingExperience() {
+  return (
+    <>
       <h1>Professional Experience</h1>
 
       <section>
         <img
           id="imgwork"
-          src="../src/P_SHASH.jpg"
+          src="/P_SHASH.jpg"
           alt="Work at Perunding SHASH"
           height="256"
-        />
+        ></img>
         <h1>Perunding SHASH</h1>
         <div>Civil Engineer</div>
         <div>Bandar Puteri, Bangi</div>
@@ -102,7 +70,7 @@
       </section>
 
       <section>
-        <img src="../src/SunCon.jpg" alt="Work at SunCon" height="256" />
+        <img src="/SunCon.jpg" alt="Work at SunCon" height="256"></img>
         <h1>Sunway Construction Group Bhd</h1>
         <div>Assistan Project Engineer</div>
         <div>Bandar Sri Damansara, Kuala Lumpur</div>
@@ -113,6 +81,7 @@
             with Inspector of Work (IoW).
           </li>
           <li>
+            {" "}
             Liaise with Resident Engineer (RE) and IoW regarding on closing the
             RFI.
           </li>
@@ -141,10 +110,10 @@
 
       <section>
         <img
-          src="../src/APS Planner.jpg"
+          src="/APS_Planner.jpg"
           alt="Work at APS Planner"
           height="256"
-        />
+        ></img>
         <h1>APS Project Planner</h1>
         <div>Assistant Project Planner</div>
         <div>Alam Damai, Cheras</div>
@@ -162,6 +131,8 @@
           </li>
         </ul>
       </section>
-    </main>
-  </body>
-</html>
+    </>
+  );
+}
+
+export default WorkingExperience;

@@ -1,15 +1,15 @@
+.root {
+  padding: 0;
+  margin: 0;
+}
+
 a {
   color: blue;
   margin: 12px;
 }
 
 body {
-  background-color: grey !important;
-}
-
-nav {
-  padding: 4px 0px;
-  margin: 4px 0px;
+  background-color: grey;
 }
 
 .container-fluid {
@@ -22,11 +22,12 @@ img {
   height: 300px;
   width: 300px;
   object-fit: cover;
+  border: black solid;
 }
 
 .img {
-  height: 256px;
-  width: 256px;
+  height: 200px;
+  width: 200px;
   object-fit: cover;
   object-position: center top;
   border-radius: 100%;
