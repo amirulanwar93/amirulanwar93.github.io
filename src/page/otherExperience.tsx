@@ -23,6 +23,44 @@ function OtherExperience() {
           Participated in Sustainability-Led Design through Building Information
           Modelling 2016.
         </li>
+        <li>
+          Exco of Educational Visit at Lankawi Research Centre UKM, Kedah 2015.
+        </li>
+        <li>
+          Committee Member of Pemantapan Kendiri dan Hari Interaksi Jabatan
+          Kejuruteraan Awam dan Struktur 2014.
+        </li>
+        <li>Participated in Engineering Inter-Collaboration 2014 (EIC).</li>
+        <li>Exco of Final Year Research Symposium 2014.</li>
+        <li>Exco of Perkhemahan Ketrampilan BSMM 2013 for college.</li>
+        <li>Committee Member of Annual Camp BSMM 2013.</li>
+        <li>Participated in Concrete Pontoon Competition 2013 (CPC), UTHM.</li>
+        <li>
+          Exco of Pemantapan Kendiri Dan Hari Interaksi Jabatan Kejuruteraan
+          Awam dan Struktur 2013.
+        </li>
+        <li>
+          Committee Member of Ekspresi Mahasiswa Hari Festival Belia Malaysia
+          Putrajaya 2013.
+        </li>
+        <li>
+          Committee Member of Majlis Makan Malam Fakulti Kejuruteraan dan Alam
+          Bina 2013.
+        </li>
+        <li>
+          Participated in Pertandingan Kuiz Inter-Detachment Bulan Sabit Merah
+          Malaysia (BSMM) UKM 2012.
+        </li>
+        <li>Exco of Blood Donation BSMM 2012.</li>
+      </ul>
+
+      <h2>2011-2012 (UiTM)</h2>
+      <ul>
+        <li>Committee Member of Program Alam Sekitar 2012, Pulau Pangkor.</li>
+        <li>
+          Exco of Program Khidmat Masyarakat Bersama Keluarga Besar Norlina
+          Alawi 2011.
+        </li>
       </ul>
     </>
   );

@@ -8,7 +8,7 @@ function Skills() {
         <li>Microsoft Word</li>
         <li>Microsoft Excel</li>
         <li>Microsoft PowerPoint</li>
-        <li>Microsoft Projecy</li>
+        <li>Microsoft Project</li>
         <li>AutoCAD</li>
         <li>ArcGIS</li>
         <li>Esteem</li>
