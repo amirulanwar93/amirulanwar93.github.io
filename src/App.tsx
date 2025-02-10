@@ -9,6 +9,7 @@ import WorkingExperience from "./page/workingExperience";
 import Skills from "./page/skills";
 import Education from "./page/education";
 import OtherExperience from "./page/otherExperience";
+import Project from "./page/project";
 
 const App = () => {
   const router = createBrowserRouter(
@@ -19,6 +20,7 @@ const App = () => {
         <Route path="/skills" element={<Skills />} />
         <Route path="/education" element={<Education />} />
         <Route path="/other" element={<OtherExperience />} />
+        <Route path="/project" element={<Project />} />
       </Route>
     )
   );

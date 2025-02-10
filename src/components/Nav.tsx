@@ -38,6 +38,11 @@ function Nav() {
                 <a className="nav-link active" href="./other">
                   Other Experience
                 </a>
+              </li>              
+              <li className="nav-item">
+                <a className="nav-link active" href="./project">
+                  Personal Projects
+                </a>
               </li>
             </ul>
           </div>
