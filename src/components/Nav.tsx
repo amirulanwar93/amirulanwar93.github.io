@@ -39,6 +39,11 @@ function Nav() {
                   Other Experience
                 </a>
               </li>
+              <li className="nav-item ">
+                <a className="nav-link disabled" href="./project">
+                  Personal Projects
+                </a>
+              </li>
             </ul>
           </div>
         </div>

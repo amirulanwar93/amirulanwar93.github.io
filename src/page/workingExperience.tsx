@@ -8,12 +8,11 @@ function WorkingExperience() {
           id="imgwork"
           src="/P_SHASH.jpg"
           alt="Work at Perunding SHASH"
-          height="256"
         ></img>
         <h1>Perunding SHASH</h1>
         <div>Civil Engineer</div>
         <div>Bandar Puteri, Bangi</div>
-        <div>June 2019 - Current</div>
+        <div>June 2019 - January 2025</div>
         <p>
           Technical and Financial Proposal for Updating Slope Information After
           Corrective/Preventive Works.
@@ -70,7 +69,7 @@ function WorkingExperience() {
       </section>
 
       <section>
-        <img src="/SunCon.jpg" alt="Work at SunCon" height="256"></img>
+        <img src="/SunCon.jpg" alt="Work at SunCon"></img>
         <h1>Sunway Construction Group Bhd</h1>
         <div>Assistan Project Engineer</div>
         <div>Bandar Sri Damansara, Kuala Lumpur</div>
@@ -112,7 +111,6 @@ function WorkingExperience() {
         <img
           src="/APS_Planner.jpg"
           alt="Work at APS Planner"
-          height="256"
         ></img>
         <h1>APS Project Planner</h1>
         <div>Assistant Project Planner</div>
