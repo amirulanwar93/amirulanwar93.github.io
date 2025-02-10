@@ -2,8 +2,10 @@ function OtherExperience() {
   return (
     <>
       <h1>External Experience</h1>
-      <h2>2018-2020</h2>
+      <h2>2018-2025</h2>
       <ul>
+        <li>Participated in MERN STACK Online Bootcamp by Taming Tech Sdn Bhd (Jun - December 2023)</li>
+        <li>AutoCAD Fundamental Workshop by IKG Training & Consultancy Sdn Bhd(October 2019)</li>
         <li>Actively volunteer the Friend of Langat River (FoLR) Program.</li>
         <li>Participated in Red Arena Run Cyberjaya 2019.</li>
         <li>Participated the AutoCAD Fundamental Workshop.</li>

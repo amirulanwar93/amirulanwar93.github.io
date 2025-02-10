@@ -1,9 +1,9 @@
-import React from 'react'
-
-const project = () => {
+function Project() {
   return (
-    <div>Under Construction</div>
-  )
+    <div style={{ textAlign: "center", fontWeight: "bold", fontSize: 50 }}>
+      Under Construction
+    </div>
+  );
 }
 
-export default project
+export default Project;
