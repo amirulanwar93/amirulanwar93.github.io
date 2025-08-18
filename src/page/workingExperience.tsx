@@ -4,6 +4,17 @@ function WorkingExperience() {
       <h1>Professional Experience</h1>
 
       <section>
+        <img src="" alt="" />
+        <h1>SH Mentari</h1>
+        <div>Site Engineer</div>
+        <div>Pusat Bandar Puchong</div>
+        <div>March 2025 - August 2025</div>
+        <p style={{ fontWeight: "bold" }}>
+          Upgrade and Widening Road Work at Subang Depot 
+        </p>
+      </section>
+
+      <section>
         <img
           id="imgwork"
           src="/P_SHASH.jpg"
@@ -13,7 +24,7 @@ function WorkingExperience() {
         <div>Civil Engineer</div>
         <div>Bandar Puteri, Bangi</div>
         <div>June 2019 - January 2025</div>
-        <p>
+        <p style={{ fontWeight: "bold" }}>
           Technical and Financial Proposal for Updating Slope Information After
           Corrective/Preventive Works.
         </p>
@@ -22,7 +33,7 @@ function WorkingExperience() {
           <li>Prepare BQ by using Man-Month method.</li>
         </ul>
 
-        <p>
+        <p style={{ fontWeight: "bold" }}>
           Proposed Repair and Replacement of Drains and Scupper Drains and
           Related Works at Jalan BRP 1/11, Jalan BRP 1/12 and Jalan BRP 1/13,
           Bukit Rahman Putra, Section U20, Shah Alam for Shah Alam City Council
@@ -43,7 +54,7 @@ function WorkingExperience() {
           </li>
         </ul>
 
-        <p>
+        <p style={{ fontWeight: "bold" }}>
           The Quantitative Risk Assessment (QRA) Study and Establishment of New
           Formula for Hazard and Risk Map Along the Federal Roads.
         </p>
@@ -74,6 +85,7 @@ function WorkingExperience() {
         <div>Assistan Project Engineer</div>
         <div>Bandar Sri Damansara, Kuala Lumpur</div>
         <div>February 2018 - October 2018</div>
+        <p style={{fontWeight:"bold"}}>KVMRT Package V201 & S201</p>
         <ul>
           <li>
             Raise Request for Inspection (RFI) and carry out inspections on-site
@@ -117,7 +129,7 @@ function WorkingExperience() {
         <div>Assistant Project Planner</div>
         <div>Alam Damai, Cheras</div>
         <div>June 2015 - September 2015</div>
-        <p>High Rise Building PR1MA</p>
+        <p style={{ fontWeight: "bold" }}>High Rise Building PR1MA</p>
         <ul>
           <li>Assist Engineer in site supervision works.</li>
           <li>Monitor and report the progress of construction works.</li>
