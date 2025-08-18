@@ -69,7 +69,7 @@ function WorkingExperience() {
       </section>
 
       <section>
-        <img src="/SunCon.jpg" alt="Work at SunCon"></img>
+        <img id="imgwork" src="/SunCon.jpg" alt="Work at SunCon"></img>
         <h1>Sunway Construction Group Bhd</h1>
         <div>Assistan Project Engineer</div>
         <div>Bandar Sri Damansara, Kuala Lumpur</div>
@@ -109,6 +109,7 @@ function WorkingExperience() {
 
       <section>
         <img
+          id="imgwork"
           src="/APS_Planner.jpg"
           alt="Work at APS Planner"
         ></img>

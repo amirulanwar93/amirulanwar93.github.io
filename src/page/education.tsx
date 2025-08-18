@@ -30,7 +30,7 @@ function Education() {
         <li>CGPA: 4.00</li>
       </ul>
 
-      <img src="/SMKAM.png" alt="Logo SMKAM" width="128"></img>
+      <img id="imgedu" src="/SMKAM.png" alt="Logo SMKAM" width="128"></img>
       <h1>SMK Alam Megah</h1>
       <div>Shah Alam, Selangor</div>
       <div>Graduate on December 2010</div>
