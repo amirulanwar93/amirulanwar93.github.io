@@ -4,14 +4,22 @@ function WorkingExperience() {
       <h1>Professional Experience</h1>
 
       <section>
-        <img src="" alt="" />
+        <img
+          id="imgwork"
+          src="/SH_Mentari.jpg"
+          alt="Work at SH Mentari"
+          style={{ objectPosition: "15% 100%" }}
+        />
         <h1>SH Mentari</h1>
         <div>Site Engineer</div>
         <div>Pusat Bandar Puchong</div>
         <div>March 2025 - August 2025</div>
         <p style={{ fontWeight: "bold" }}>
-          Upgrade and Widening Road Work at Subang Depot 
+          Upgrade and Widening Road Work at Subang Depot
         </p>
+        <ul>
+          <li>Prepare Method Statement for Launching Beam.</li>
+        </ul>
       </section>
 
       <section>
@@ -80,12 +88,17 @@ function WorkingExperience() {
       </section>
 
       <section>
-        <img id="imgwork" src="/SunCon.jpg" alt="Work at SunCon"></img>
+        <img
+          id="imgwork"
+          src="/SunCon.jpg"
+          alt="Work at SunCon"
+          style={{ objectPosition: "65% 100%" }}
+        ></img>
         <h1>Sunway Construction Group Bhd</h1>
         <div>Assistan Project Engineer</div>
         <div>Bandar Sri Damansara, Kuala Lumpur</div>
         <div>February 2018 - October 2018</div>
-        <p style={{fontWeight:"bold"}}>KVMRT Package V201 & S201</p>
+        <p style={{ fontWeight: "bold" }}>KVMRT Package V201 & S201</p>
         <ul>
           <li>
             Raise Request for Inspection (RFI) and carry out inspections on-site
@@ -124,6 +137,7 @@ function WorkingExperience() {
           id="imgwork"
           src="/APS_Planner.jpg"
           alt="Work at APS Planner"
+          style={{ objectPosition: "90% 100%" }}
         ></img>
         <h1>APS Project Planner</h1>
         <div>Assistant Project Planner</div>
