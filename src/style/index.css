@@ -45,3 +45,10 @@ img {
   width: 256px;
   object-fit: contain;
 }
+
+/* Add to your CSS file */
+.nav-link-custom {
+  font-size: 1rem; /* Adjust as needed */
+  padding: 0.5rem 1rem; /* Adjust as needed */
+  text-align: center;
+}

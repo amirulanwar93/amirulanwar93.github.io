@@ -3,7 +3,7 @@ function Nav() {
     <>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
-          <a className="navbar-brand nav-link active" href="/">
+          <a className="navbar-brand nav-link nav-link-custom active" href="/">
             My Profile
           </a>
           <button
@@ -20,27 +20,36 @@ function Nav() {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" href="./experience">
+                <a
+                  className="nav-link nav-link-custom active"
+                  href="./experience"
+                >
                   Working Experience
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active" href="./skills">
+                <a className="nav-link nav-link-custom active" href="./skills">
                   Skills
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active" href="./education">
+                <a
+                  className="nav-link nav-link-custom active"
+                  href="./education"
+                >
                   Education
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active" href="./other">
+                <a className="nav-link nav-link-custom active" href="./other">
                   Other Experience
                 </a>
               </li>
               <li className="nav-item ">
-                <a className="nav-link disabled" href="./project">
+                <a
+                  className="nav-link nav-link-custom disabled"
+                  href="./project"
+                >
                   Personal Projects
                 </a>
               </li>
